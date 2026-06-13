@@ -1,6 +1,6 @@
 {
   "name": "@n8n-dev/n8n-nodes-azure-eventhub-eventhub",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Azure Event Hubs client",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-azure-eventhub-eventhub",
